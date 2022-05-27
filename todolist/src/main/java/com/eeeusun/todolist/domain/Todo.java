@@ -24,8 +24,6 @@ public class Todo {
     @JoinColumn(name = "member_id")
     private Member member;
 
-    //test 테스트
-    // 안돼는건가.....
 
     // 카테고리
 
